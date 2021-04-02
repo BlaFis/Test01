@@ -7,4 +7,5 @@ package hui.ming.git;
 public class User {
     Integer id;
     String name;
+    String address;
 }
